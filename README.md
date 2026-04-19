@@ -1,7 +1,3 @@
-Based on the content of your presentation, here is a clean and professional **README.md** file. This uses standard Markdown formatting to ensure it looks great on platforms like GitHub or in any Markdown viewer.
-
----
-
 # Examining the Nurse-to-Patient Ratio in Taiwan’s Urban-Rural Divide
 
 ### *Using the onset, severity, and mitigation of COVID-19 as a reference*
